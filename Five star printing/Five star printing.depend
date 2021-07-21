@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1426869089 source:c:\users\wipro\desktop\c language programes\five star printing\main.c
+	<stdio.h>
+	<conio.h>
+

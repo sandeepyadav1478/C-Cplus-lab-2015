@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430231408 source:c:\users\wipro\desktop\c language programes\light bill\main.c
+	<stdio.h>
+	<conio.h>
+

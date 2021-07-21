@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1189868556 source:c:\main.cpp
+	<iostream>
+
+1421566401 source:c:\users\wipro\documents\c programing softwares\find out the day of given date.c
+	<stdio.h>
+	<conio.h>
+
