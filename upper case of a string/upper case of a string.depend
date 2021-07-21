@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427709648 source:c:\users\wipro\desktop\c language programes\upper case of a string\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
