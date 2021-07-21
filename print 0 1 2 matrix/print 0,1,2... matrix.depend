@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1427715676 source:c:\users\wipro\desktop\c language programes\print 0,1,2... matrix\main.c
+	<stdio.h>
+	<conio.h>
+
