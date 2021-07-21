@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444532235 source:i:\c language programes\moving star\main.c
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+
