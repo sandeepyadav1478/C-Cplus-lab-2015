@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1423217060 source:c:\users\wipro\desktop\c language programes\target\main.cpp
+	<stdio.h>
+	<conio.h>
+
