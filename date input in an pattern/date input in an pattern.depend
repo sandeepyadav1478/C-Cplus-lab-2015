@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428424952 source:c:\users\wipro\desktop\c language programes\date input in an pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
